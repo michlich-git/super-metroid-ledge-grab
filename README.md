@@ -2,7 +2,7 @@ Super Metroid Ledge Grab
 
 A small gameplay mod for Super Metroid that adds a GBA-style ledge grab and climbing mechanic.
 
-Features
+Features :
 
 Grab ledges while falling
 
@@ -18,13 +18,13 @@ Custom ledge grab and climbing sprites
 
 Compatible with Power, Varia and Gravity suits
 
-Installation
+Installation :
 
 Apply the .ips patch to a clean, unheadered Super Metroid (Japan, USA) (En,Ja) ROM.
 
 Recommended tool: Lunar IPS or another IPS patcher.
 
-Version
+Version :
 
 Current version: v0.39
 
